@@ -1,0 +1,14 @@
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\textBaseRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\textBaseRPG.AssemblyInfoInputs.cache
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\textBaseRPG.AssemblyInfo.cs
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\textBaseRPG.csproj.CoreCompileInputs.cache
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\bin\Debug\net8.0\textBaseRPG.exe
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\bin\Debug\net8.0\textBaseRPG.deps.json
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\bin\Debug\net8.0\textBaseRPG.runtimeconfig.json
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\bin\Debug\net8.0\textBaseRPG.dll
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\bin\Debug\net8.0\textBaseRPG.pdb
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\textBaseRPG.dll
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\refint\textBaseRPG.dll
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\textBaseRPG.pdb
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\textBaseRPG.genruntimeconfig.cache
+C:\Users\Dimitris Karavergos\source\repos\textBaseRPG\obj\Debug\net8.0\ref\textBaseRPG.dll
